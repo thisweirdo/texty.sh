@@ -13,3 +13,5 @@ Just make Texty.sh executable and - ta-da! - dialog-based text editor
 Pretty good for a 10-year old
 
 Oh yeah there's rarely gonna updates!!!!!
+
+(later in the day )i just updated it i hope the buttons labels are correct
