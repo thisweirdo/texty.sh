@@ -1,5 +1,7 @@
 # texty.sh
-A weird one-file texteditor
+A weird one-file texteditor.
+100% shell.
+Don't beleive it? just check.
 
 Requirements? JUST THREE!!!!
 - kdialog
@@ -8,6 +10,6 @@ Requirements? JUST THREE!!!!
 
 Just make Texty.sh executable and - ta-da! - dialog-based text editor
 
-pretty good for a 10-year old
+Pretty good for a 10-year old
 
-oh yeah theres rarely gonna updates!!!!!
+Oh yeah there's rarely gonna updates!!!!!
