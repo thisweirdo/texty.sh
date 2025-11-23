@@ -1,6 +1,6 @@
 #!/bin/bash
 
-kdialog --yesnocancel "Do you want to make a file? Press Yes to make, No to edit, and Cancel to cancel"
+kdialog --yesnocancel "Do you want to make a file?" --no-label "Edit a file"
 
 case $? in
     0)
